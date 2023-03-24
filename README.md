@@ -1,8 +1,8 @@
 # Credit-Card-Fraud-Detection
 
 
-Run the program in the compiler with the command: streamlit run "Detection.py" or streamlit run Detection.py 
+1. Run the program in the compiler with the command: streamlit run "Detection.py" or streamlit run Detection.py 
 
-Preferred to run the program in the Visual Studio code. 
+2. Preferred to run the program in the Visual Studio code. 
 
-Output will be presented in the browser.
+3. Output will be presented in the browser.
